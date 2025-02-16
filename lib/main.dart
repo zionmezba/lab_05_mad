@@ -14,7 +14,7 @@ class AppHome extends StatelessWidget {
         appBar: AppBar(
           title: Text("Lab 05 - Flutter"),
         ),
-        body: Text("This is from body"),
+        body: Text("This  body"),
       ),
     );
   }
